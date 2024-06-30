@@ -1,0 +1,23 @@
+[package]
+name = "trade_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12.5", features = ["json", "blocking"] }
+serde = { version = "1.0", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+async-trait = "0.1.50"
+serde_json = "1.0"
+hmac = "0.12"
+base64 = "0.13"
+sha2 = "0.10.6"
+hex = "0.4.3"
+chrono = "0.4.19"
+serde_urlencoded = "0.7.0"
+thiserror = "1.0"
+log = "0.4"
+logger = { path = "../logger" }
+base = { path = "../base" }
+rust_decimal = "1.35"
+rust_decimal_macros = "1"

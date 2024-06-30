@@ -1,0 +1,26 @@
+2024-06-26 20:08:18 [INFO] - strategy - Strategy started
+
+2024-06-26 20:08:18 [ERROR] - strategy - No order book found for symbol usdttwd
+
+2024-06-26 20:08:18 [ERROR] - strategy - Failed to fetch data: No order book found
+
+2024-06-26 20:08:23 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:08:28 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:08:33 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:08:38 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:08:43 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:08:48 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:08:53 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:08:58 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:09:03 [INFO] - strategy - No arbitrage opportunity found.
+
+2024-06-26 20:09:08 [INFO] - strategy - No arbitrage opportunity found.
+
