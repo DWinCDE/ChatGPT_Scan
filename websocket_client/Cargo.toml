@@ -1,0 +1,19 @@
+[package]
+name = "websocket_client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+tokio-tungstenite = { version = "*", features = ["native-tls"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1.0"
+futures = "0.3"
+async-trait = "0.1"
+futures-util = "0.3"
+ordered-float = "4.2.0"
+uuid = { version = "1", features = ["v4"] }
+log = "0.4"
+logger = { path = "../logger" }
+url ="*"
+simd-json = "0.13.10"
