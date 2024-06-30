@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "logger",
+    "quote_server",
+    "trade_server",
+    "strategy",
+    "tri_arb",
+    "base",
+    "user_data",
+    "websocket_client"
+]
