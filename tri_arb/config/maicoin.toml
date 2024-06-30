@@ -1,0 +1,11 @@
+
+[api_info]
+account_name = "maicoin-triangular"
+exchange = "maicoin"
+api_key = "NpYKWTfD3MZxAaDgfxLThDxguthJSzcTMu04QkzY"
+secret_key = "ogNkl9PDMiMEWl7gCxOSGjhqQoS8Rc8L8xjUyDlm"
+
+[settings]
+fee_rate = 0.001
+response_timeout = 20
+protect_tolerance = 0.01
